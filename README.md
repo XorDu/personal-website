@@ -1,6 +1,6 @@
 <div align="center">
 
-# ðŸŒ Personal Website
+# 🌐 Personal Website
 
 ### Portfolio & Personal Website
 
@@ -12,19 +12,19 @@
 
 ---
 
-## ðŸ“‹ About
+## 📋 About
 
 **Personal Website** is a responsive portfolio website built with vanilla HTML, CSS, and JavaScript. It showcases projects, skills, and professional information with a clean, modern design.
 
-## âœ¨ Features
+## ✨ Features
 
-- ðŸŽ¨ **Custom Design** â€” Handcrafted CSS with custom fonts and styles
-- ðŸ“± **Responsive** â€” Fully responsive layout for all devices
-- âš¡ **Lightweight** â€” No framework dependencies, pure HTML/CSS/JS
-- ðŸ–¼ï¸ **Portfolio** â€” Showcase of projects and work
-- ðŸ”¤ **Custom Fonts** â€” Professional typography
+- 🎨 **Custom Design** — Handcrafted CSS with custom fonts and styles
+- 📱 **Responsive** — Fully responsive layout for all devices
+- ⚡ **Lightweight** — No framework dependencies, pure HTML/CSS/JS
+- 🖼️ **Portfolio** — Showcase of projects and work
+- 🔤 **Custom Fonts** — Professional typography
 
-## ðŸ› ï¸ Tech Stack
+## 🛠️ Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -33,7 +33,7 @@
 | **Interactivity** | Vanilla JavaScript |
 | **Assets** | Custom favicons, fonts, and images |
 
-## ðŸš€ Getting Started
+## 🚀 Getting Started
 
 ```bash
 # Clone the repository
@@ -46,24 +46,24 @@ open index.html
 python -m http.server 8080
 ```
 
-## ðŸ“ Project Structure
+## 📁 Project Structure
 
 ```
 personal-website/
-â”œâ”€â”€ index.html          # Main HTML file
-â”œâ”€â”€ css/                # Stylesheets
-â”œâ”€â”€ js/                 # JavaScript files
-â”œâ”€â”€ images/             # Image assets
-â”œâ”€â”€ fonts/              # Custom fonts
-â””â”€â”€ favicons/           # Favicon files
+├── index.html          # Main HTML file
+├── css/                # Stylesheets
+├── js/                 # JavaScript files
+├── images/             # Image assets
+├── fonts/              # Custom fonts
+└── favicons/           # Favicon files
 ```
 
-## ðŸ¤ Contributing
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/XorDu/personal-website/issues).
 
 ---
 
 <div align="center">
-Made with â¤ï¸ by <a href="https://github.com/XorDu">XorDu</a>
+Made with ❤️ by <a href="https://github.com/XorDu">XorDu</a>
 </div>
